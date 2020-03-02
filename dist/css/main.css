@@ -166,6 +166,8 @@ main {
 
 .bio-image {
   grid-area: bioimage;
+  width: 170px;
+  height: 170px;
   margin: auto;
   border-radius: 50%;
   border: #c38d9e 6px solid; }
@@ -327,4 +329,12 @@ main {
       padding: 1rem 2rem;
       margin-bottom: 3rem; }
     .boxes .sn-heading {
-      font-size: 18px; } }
+      font-size: 18px; }
+  .lg-heading {
+    font-size: 15px; }
+  .portrait {
+    width: 10px;
+    height: 10px;
+    background: url("../img/family-2.jpg");
+    border-radius: 50%;
+    border: solid 6px #c38d9e; } }
