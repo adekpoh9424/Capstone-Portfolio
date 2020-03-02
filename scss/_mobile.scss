@@ -107,11 +107,6 @@
     font-size: 15px;
   }
   .portrait {
-    width: 10px;
-    height: 10px;
-    background: url("../img/family-2.jpg");
-
-    border-radius: 50%;
-    border: solid 6px $secondary-color;
+    display: none;
   }
 }
